@@ -1,0 +1,6 @@
+{
+  "name": "Southern Agedcare",
+  "description": "Professional, compassionate aged-care services in Desert Springs, Northern Territory. Personalised in-home support, respite care, and community living assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
