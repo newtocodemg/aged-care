@@ -89,7 +89,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenConsultation }) => {
             {/* Main photograph card */}
             <div className="relative rounded-3xl overflow-hidden shadow-xl border-4 border-white bg-white">
               <img
-                src="/src/assets/images/hero_aged_care_australia_1793377017924.jpg"
+                src="/images/hero_aged_care_australia_1793377017924.jpg"
                 alt="Compassionate Australian aged care worker conversing warmly with a senior gentleman in a sunlit home living room"
                 className="w-full h-[380px] sm:h-[450px] lg:h-[480px] object-cover"
                 decoding="async"

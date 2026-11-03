@@ -34,7 +34,7 @@ export const Footer: React.FC = () => {
                   aria-label="Southern Agedcare Homepage"
                 >
                   <img
-                    src="/assets/aistudio/Southern_Agedcare_Support_Emblem_77aaec09.png"
+                    src="/images/Southern_Agedcare_Support_Emblem_77aaec09.png"
                     alt="Southern Agedcare"
                     className="h-16 sm:h-20 w-auto object-contain bg-white rounded-2xl p-1.5 shadow-md"
                   />

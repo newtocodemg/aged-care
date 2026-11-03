@@ -23,7 +23,7 @@ export const EDITABLE_SERVICES: CareService[] = [
     shortDescription: 'Assistance with daily personal routines, grooming, bathing, and mobility tailored to individual preferences and lifestyle.',
     fullDescription: 'Compassionate assistance with daily personal routines. Our care workers work at your pace, respecting your privacy, choices, and dignity to help you feel comfortable and confident at home.',
     iconName: 'HeartHandshake',
-    image: '/src/assets/images/service_in_home_support_1793377019253.jpg',
+    image: '/images/service_in_home_support_1793377019253.jpg',
     suitedFor: 'Individuals needing gentle, dignified support with personal grooming, dressing, and daily personal hygiene routines.',
     features: [
       'Personal grooming, showering, and dressing assistance',
@@ -39,7 +39,7 @@ export const EDITABLE_SERVICES: CareService[] = [
     shortDescription: 'Friendly, regular visits, social connection, and assistance with day-to-day living activities in the comfort of home.',
     fullDescription: 'Regular companionship visits that foster meaningful connection and conversation. Whether sharing a cup of tea, enjoying a hobby together, or providing peace-of-mind check-ins, we support positive wellbeing.',
     iconName: 'Users',
-    image: '/src/assets/images/hero_aged_care_australia_1793377017924.jpg',
+    image: '/images/hero_aged_care_australia_1793377017924.jpg',
     suitedFor: 'Seniors living at home who value friendly conversation, shared companionship, and dependable everyday connection.',
     features: [
       'Social companionship, conversation, and shared interests',
@@ -55,7 +55,7 @@ export const EDITABLE_SERVICES: CareService[] = [
     shortDescription: 'Flexible short-term relief for family carers, providing attentive and familiar support for loved ones.',
     fullDescription: 'Caring for a loved one is rewarding, but taking time to recharge is vital. Our respite support gives primary carers dependable peace of mind, knowing their loved one is cared for with patience and warmth.',
     iconName: 'Clock',
-    image: '/src/assets/images/facility_consultation_space_1793377019793.jpg',
+    image: '/images/facility_consultation_space_1793377019793.jpg',
     suitedFor: 'Family members and primary carers seeking scheduled hours or overnight relief while maintaining trusted care routines.',
     features: [
       'Scheduled daytime care and companionship in your home',
@@ -71,7 +71,7 @@ export const EDITABLE_SERVICES: CareService[] = [
     shortDescription: 'Supported transport and accompaniment for local community outings, shopping, appointments, and social gatherings.',
     fullDescription: 'Remaining connected to the local community is essential for quality of life. We provide accompanied transport to appointments, local shops, scenic walks, and social gatherings.',
     iconName: 'Compass',
-    image: '/src/assets/images/service_community_engagement_1793377019567.jpg',
+    image: '/images/service_community_engagement_1793377019567.jpg',
     suitedFor: 'Older adults who wish to stay active in their neighbourhood, attend appointments safely, and connect with community activities.',
     features: [
       'Safe transport and accompaniment to medical and therapy appointments',
@@ -87,7 +87,7 @@ export const EDITABLE_SERVICES: CareService[] = [
     shortDescription: 'Clinical oversight, medication coordination, and wellbeing checks delivered in collaboration with healthcare professionals.',
     fullDescription: 'Professional clinical support delivered in the familiar comfort of your home. We coordinate with your local GP, pharmacists, and health practitioners to support health maintenance and safety.',
     iconName: 'Stethoscope',
-    image: '/src/assets/images/facility_consultation_space_1793377019793.jpg',
+    image: '/images/facility_consultation_space_1793377019793.jpg',
     suitedFor: 'Clients managing health conditions who require regular monitoring, medication assistance, or professional clinical visits.',
     features: [
       'Medication reminders, administration, and blister pack support',
@@ -103,7 +103,7 @@ export const EDITABLE_SERVICES: CareService[] = [
     shortDescription: 'Support with light household tasks, laundry, and meal preparation to keep living spaces comfortable and safe.',
     fullDescription: 'A clean, organised, and nourishing home environment supports independence and peace of mind. We assist with preparing wholesome meals, washing and folding laundry, and maintaining tidy living spaces.',
     iconName: 'UtensilsCrossed',
-    image: '/src/assets/images/service_in_home_support_1793377019253.jpg',
+    image: '/images/service_in_home_support_1793377019253.jpg',
     suitedFor: 'Individuals who find household chores or meal prep difficult and wish to keep their home tidy, clean, and comfortable.',
     features: [
       'Fresh, balanced meal preparation according to your tastes',

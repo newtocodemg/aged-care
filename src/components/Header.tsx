@@ -61,7 +61,7 @@ export const Header: React.FC<HeaderProps> = ({ onOpenConsultation }) => {
               aria-label="Southern Agedcare Homepage"
             >
               <img
-                src="/assets/aistudio/Southern_Agedcare_Support_Emblem_77aaec09.png"
+                src="/images/Southern_Agedcare_Support_Emblem_77aaec09.png"
                 alt="Southern Agedcare"
                 className="h-12 md:h-14 w-auto object-contain"
               />

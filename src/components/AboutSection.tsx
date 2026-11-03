@@ -41,7 +41,7 @@ export const AboutSection: React.FC = () => {
 
             <div className="relative rounded-3xl overflow-hidden shadow-xl border-4 border-white bg-slate-100">
               <img
-                src="/src/assets/images/service_community_engagement_1793377019567.jpg"
+                src="/images/service_community_engagement_1793377019567.jpg"
                 alt="Compassionate aged care worker and smiling elderly woman walking together in a sunlit garden"
                 className="w-full h-[400px] sm:h-[480px] lg:h-[520px] object-cover"
                 loading="lazy"

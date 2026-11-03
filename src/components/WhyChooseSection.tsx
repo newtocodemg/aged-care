@@ -79,7 +79,7 @@ export const WhyChooseSection: React.FC<WhyChooseProps> = ({ onOpenConsultation 
           <div className="lg:col-span-5 space-y-6">
             <div className="relative rounded-3xl overflow-hidden shadow-xl border-4 border-white bg-slate-100">
               <img
-                src="/src/assets/images/why_choose_southern_agedcare_1793436690377.jpg"
+                src="/images/why_choose_southern_agedcare_1793436690377.jpg"
                 alt="Support worker holding hands reassuringly with an older Australian gentleman in a bright living room"
                 className="w-full h-[380px] sm:h-[440px] lg:h-[470px] object-cover"
                 loading="lazy"
